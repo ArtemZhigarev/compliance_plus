@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"w7nAVW68cs\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Compliance Plus</span>\",\"col\":12}},{\"id\":\"1pQhggfQHi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Insurance Tracker\",\"col\":3}},{\"id\":\"L-qHHFdsJi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Compliance Tracker\",\"col\":3}},{\"id\":\"Q44mO2hHEg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Licence Tracker\",\"col\":3}},{\"id\":\"ybvSkb9hKE\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Trademark Tracker\",\"col\":3}},{\"id\":\"YuvHBSoqtl\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"DURwVOjKRv\",\"type\":\"card\",\"data\":{\"card_name\":\"Settings\",\"col\":4}}]",
+ "content": "[{\"id\":\"w7nAVW68cs\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Compliance Plus</span>\",\"col\":12}},{\"id\":\"1pQhggfQHi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Insurance Tracker\",\"col\":3}},{\"id\":\"L-qHHFdsJi\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Compliance Tracker\",\"col\":3}},{\"id\":\"Q44mO2hHEg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Licence Tracker\",\"col\":3}},{\"id\":\"ybvSkb9hKE\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Trademark Tracker\",\"col\":3}},{\"id\":\"8E_b9a80pH\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Subscription Tracker\",\"col\":3}},{\"id\":\"YuvHBSoqtl\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"DURwVOjKRv\",\"type\":\"card\",\"data\":{\"card_name\":\"Settings\",\"col\":4}}]",
  "creation": "2025-06-06 11:15:50.059168",
  "custom_blocks": [],
  "docstatus": 0,
@@ -8,7 +8,7 @@
  "for_user": "",
  "hide_custom": 0,
  "icon": "message",
- "idx": 0,
+ "idx": 1,
  "indicator_color": "green",
  "is_hidden": 0,
  "label": "Compliance Plus",
@@ -33,7 +33,7 @@
    "type": "Link"
   }
  ],
- "modified": "2025-06-06 11:21:33.707550",
+ "modified": "2025-08-26 15:25:25.731295",
  "modified_by": "Administrator",
  "module": "Compliance Plus",
  "name": "Compliance Plus",
@@ -50,6 +50,14 @@
    "doc_view": "List",
    "label": "Insurance Tracker",
    "link_to": "Insurance Tracker",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Subscription Tracker",
+   "link_to": "Subscription Tracker",
    "stats_filter": "[]",
    "type": "DocType"
   },
